@@ -158,7 +158,7 @@ footer a:hover {
 
 <footer>
     <p><strong>Terms of Use:</strong> This Expense Splitter tool is designed for personal and educational use only. Users are responsible for verifying the accuracy of all data entered. Unauthorized duplication or distribution of this code or design is prohibited.</p>
-    <p>© 2025 <strong>K Chandra Kamali</strong>. All rights reserved.</p>
+    <p>© 2025 <strong>K Chandra Kamali</strong></p>
 </footer>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
